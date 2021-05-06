@@ -46,6 +46,5 @@ or <a href="ttruongllau@gmail.com"><b>email</b></a> me
 
 
 -----
-Credits: [](https://github.com/ABSphreak)
 
 Last Edited on: 30/04/2021
