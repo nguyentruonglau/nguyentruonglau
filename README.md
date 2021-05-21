@@ -14,9 +14,3 @@ Ask me anything <a href="https://www.facebook.com/ttruongllau"><b>here</b></a><b
 or <a href="ttruongllau@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
-
-</div>
-
-<div align="center">
-</br>
-</br>
