@@ -15,4 +15,4 @@ or <a href="ttruongllau@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
-![](https://github.com/nguyentruonglau/aic_classify/blob/main/images/logo.png)
+![](https://github.com/nguyentruonglau/aic_classify/blob/main/images/logo_background.png)
