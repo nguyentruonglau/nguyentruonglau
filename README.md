@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![](https://github.com/nguyentruonglau/aic_classify/blob/main/images/logo_background.png)
+![](https://github.com/nguyentruonglau/aic_classify/blob/main/images/logo_backgrounds.png)
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
