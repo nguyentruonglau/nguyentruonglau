@@ -14,3 +14,5 @@ Ask me anything <a href="https://www.facebook.com/ttruongllau"><b>here</b></a><b
 or <a href="ttruongllau@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
+
+![](https://github.com/nguyentruonglau/aic_classify/blob/main/images/logo.png)
