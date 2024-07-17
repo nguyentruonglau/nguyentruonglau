@@ -1,13 +1,3 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I am Nguyen Truong Lau </h2>
-</div>
-
-<div align="center" width="50">
-
-</div>
-
-<div align="center">
-  
 ![](https://github.com/nguyentruonglau/images/blob/main/images/github-background.jpg)
 
 You have finally discovered my Github profile. <br>
